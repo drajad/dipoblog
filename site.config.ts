@@ -17,9 +17,8 @@ export default siteConfig({
   description: 'Blog Dipo',
 
   // social usernames (optional)
-  twitter: 'dipoapp',
-  github: 'dipoapp',
-  facebook: 'dipoapp',
+  //twitter: 'dipoapp',
+  //github: 'dipoapp',
   //linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
